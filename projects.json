@@ -1,0 +1,21 @@
+[
+  {
+    "nombre": "ISS Tracker Pro",
+    "descripcion": "Track the International Space Station in real-time with pass predictions and astronaut information",
+    "icono": "https://andresgimenez.github.io/apps-catalogo/iconos/iss-tracker.png",
+    "store_android": "https://play.google.com/store/apps/details?id=com.ginjol.isstracker"
+  },
+  {
+    "nombre": "Smart Energy",
+    "descripcion": "Toma el control de tu factura de luz con nuestra app para dispositivos Android. ¡Ahorra energía y dinero de manera inteligente! Nuestra herramienta te ayuda a reducir tu consumo eléctrico de forma sencilla y eficiente. Obtén información en tiempo real sobre el precio de la luz hoy y los precios de mercado eléctrico en España. Además, recibirás consejos personalizados para ahorrar aún más",
+    "icono": "https://andresgimenez.github.io/apps-catalogo/iconos/weather-app.png",
+    "store_android": "https://play.google.com/store/apps/details?id=io.ionic.ahorrallum"
+  },
+  {
+    "nombre": "Calculadora interés compuesto",
+    "descripcion": "Calculadora de interés compuesto para ayudar a los usuarios a entender y calcular sus inversiones",
+    "icono": "https://andresgimenez.github.io/apps-catalogo/iconos/compound-interest.png",
+    "store_android": "https://play.google.com/store/apps/details?id=com.ginjol.calculadora.interescompuesto"
+  }
+ 
+]

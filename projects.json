@@ -16,6 +16,12 @@
     "descripcion": "Calculadora de interés compuesto para ayudar a los usuarios a entender y calcular sus inversiones",
     "icono": "https://github.com/ginjol83/apps-catalogo/blob/main/iconos/icon-calculadora-interes-compuesto.png?raw=true",
     "store_android": "https://play.google.com/store/apps/details?id=com.ginjol.calculadora.interescompuesto"
+  },
+  {
+    "nombre": "Registro de peso",
+    "descripcion": "Registra tu peso diario de una manera sencilla, ¡empieza a cambiar tus habitos!",
+    "icono": "https://github.com/ginjol83/apps-catalogo/blob/main/iconos/icon512-registro-peso.png?raw=true",
+    "store_android": "https://play.google.com/store/apps/details?id=com.ginjol.seguimientopeso"
   }
  
 ]

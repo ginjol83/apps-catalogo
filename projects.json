@@ -3,7 +3,7 @@
     "nombre": "ISS Tracker Pro",
     "descripcion": "Track the International Space Station in real-time with pass predictions and astronaut information",
     "icono": "https://github.com/ginjol83/apps-catalogo/blob/main/iconos/iss-tracker.png?raw=true",
-    "store_android": "https://play.google.com/store/apps/details?id=com.ginjol.isstracker"
+    "store_android": "https://play.google.com/store/apps/details?id=io.ginjol.iss.app"
   },
   {
     "nombre": "Smart Energy",
